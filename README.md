@@ -35,8 +35,7 @@ The file `text.txt` should contain the sentence(s) you want to practice typing.
 ```bash
 python3 typing_speed_test.py
 ```
-
----
+![WPM MODE](png/WPM-mode.png)
 
 ## 🎮 How to Use
 
