@@ -35,7 +35,6 @@ The file `text.txt` should contain the sentence(s) you want to practice typing.
 ```bash
 python3 typing_speed_test.py
 ```
-![WPM MODE](png/WPM-mode.png)
 
 ## 🎮 How to Use
 
@@ -44,7 +43,7 @@ When the program starts, you’ll see a blinking welcome message.
 1. Choose a mode:
 
 Press 1 → WPM Live
-
+![WPM MODE](png/WPM-mode.png)
 Press 2 → Typing in Time
 
 2. Start typing the text shown on the screen.
