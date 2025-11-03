@@ -45,6 +45,7 @@ When the program starts, you’ll see a blinking welcome message.
 Press 1 → WPM Live
 
 Press 2 → Typing in Time
+
 ![WPM MODE](png/WPM-mode.png)
 
 2. Start typing the text shown on the screen.
